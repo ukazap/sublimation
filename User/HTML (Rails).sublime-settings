@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"csv.erb",
+		"erb",
+		"html.erb",
+		"rails"
+	]
+}

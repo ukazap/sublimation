@@ -1,0 +1,59 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Advanced CSV",
+		"All Autocomplete",
+		"ANSIescape",
+		"ApplySyntax",
+		"Babel",
+		"Babel Snippets",
+		"Better Rails",
+		"Better RSpec",
+		"Better Ruby",
+		"BracketHighlighter",
+		"Capybara Snippets",
+		"Cheatsheet",
+		"Compare Side-By-Side",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"EJS 2",
+		"Elixir",
+		"Elm Language Support",
+		"Emmet",
+		"FileIcons",
+		"Git",
+		"Git Conflict Resolver",
+		"Haml",
+		"Hover Image Preview",
+		"JsonTree",
+		"LESS",
+		"MarkdownPreview",
+		"Modific",
+		"nginx",
+		"NodeRequirer",
+		"Package Control",
+		"PlainNotes",
+		"Pretty JSON",
+		"Pug",
+		"Rails Developer Snippets",
+		"Rails Migrations List",
+		"Rake",
+		"ReadmePlease",
+		"RSpec",
+		"Rust Enhanced",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"TOML"
+	],
+	"repositories":
+	[
+		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
+	]
+}
