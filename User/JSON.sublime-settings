@@ -6,6 +6,7 @@
 		".csslintrc",
 		".bowerrc",
 		".jscsrc",
-		".eslintrc"
+		".eslintrc",
+		".stylelintrc"
 	]
 }

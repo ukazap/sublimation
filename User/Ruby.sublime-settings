@@ -8,6 +8,8 @@
 		"rabl",
 		"simplecov",
 		"rb",
-		"ru"
+		"ru",
+		"axlsx",
+		"Envfile"
 	]
 }

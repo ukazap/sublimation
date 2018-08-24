@@ -39,6 +39,10 @@
 		"simplecov",
 		"thor"
 	],
+	"Ruby Slim":
+	[
+		"emblem"
+	],
 	"Shell-Unix-Generic":
 	[
 		"bash",
